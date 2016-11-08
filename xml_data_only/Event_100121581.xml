@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="run_146944_event_100121581">
+       <title>CMS Event</title>
+       <run>146944</run>
+       <ev>100121581</ev>
+       <ls>187</ls>
+       <orbit>48861623</orbit>
+       <bx>453</bx>
+       <time>2010-Sep-3000=>32=>26.641234GMT</time>
+       <localtime>WedSep2919=>32=>262010CDT</localtime>
+    </Item>
+    <Item name="electron_0">
+       <title>Electron</title>
+       <pt>43.7184</pt>
+       <eta>-0.3547</eta>
+       <phi>3.07087</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="jet_0">
+       <title>PF jet</title>
+       <pt>46.2415</pt>
+       <eta>-0.360674</eta>
+       <theta>1.9239</theta>
+       <phi>3.06939</phi>
+    </Item>
+    <Item name="jet_1">
+       <title>PF jet</title>
+       <pt>13.2544</pt>
+       <eta>0.631997</eta>
+       <theta>0.977103</theta>
+       <phi>0.170546</phi>
+    </Item>
+    <Item name="jet_2">
+       <title>PF jet</title>
+       <pt>11.3913</pt>
+       <eta>-3.39228</eta>
+       <theta>3.07435</theta>
+       <phi>-2.07789</phi>
+    </Item>
+    <Item name="jet_3">
+       <title>PF jet</title>
+       <pt>9.33704</pt>
+       <eta>2.31626</eta>
+       <theta>0.196647</theta>
+       <phi>-2.18784</phi>
+    </Item>
+    <Item name="jet_4">
+       <title>PF jet</title>
+       <pt>8.96973</pt>
+       <eta>-1.22239</eta>
+       <theta>2.56874</theta>
+       <phi>1.3861</phi>
+    </Item>
+    <Item name="jet_5">
+       <title>PF jet</title>
+       <pt>8.13985</pt>
+       <eta>-0.648961</eta>
+       <theta>2.17848</theta>
+       <phi>-1.35808</phi>
+    </Item>
+    <Item name="jet_6">
+       <title>PF jet</title>
+       <pt>8.10044</pt>
+       <eta>-0.508068</eta>
+       <theta>2.05832</theta>
+       <phi>0.44712</phi>
+    </Item>
+    <Item name="jet_7">
+       <title>PF jet</title>
+       <pt>7.84577</pt>
+       <eta>1.79763</eta>
+       <theta>0.3284</theta>
+       <phi>-0.720108</phi>
+    </Item>
+    <Item name="jet_8">
+       <title>PF jet</title>
+       <pt>7.51887</pt>
+       <eta>-4.12068</eta>
+       <theta>3.10913</theta>
+       <phi>2.23046</phi>
+    </Item>
+    <Item name="jet_9">
+       <title>PF jet</title>
+       <pt>6.87212</pt>
+       <eta>-3.71827</eta>
+       <theta>3.09305</theta>
+       <phi>-1.09046</phi>
+    </Item>
+    <Item name="jet_10">
+       <title>PF jet</title>
+       <pt>6.72341</pt>
+       <eta>3.35097</eta>
+       <theta>0.0700722</theta>
+       <phi>-0.0424777</phi>
+    </Item>
+    <Item name="jet_11">
+       <title>PF jet</title>
+       <pt>6.23788</pt>
+       <eta>-2.76816</eta>
+       <theta>3.0162</theta>
+       <phi>2.18418</phi>
+    </Item>
+    <Item name="jet_12">
+       <title>PF jet</title>
+       <pt>6.17172</pt>
+       <eta>4.51007</eta>
+       <theta>0.0219945</theta>
+       <phi>1.19944</phi>
+    </Item>
+    <Item name="jet_13">
+       <title>PF jet</title>
+       <pt>5.91198</pt>
+       <eta>-1.69965</eta>
+       <theta>2.78009</theta>
+       <phi>2.61559</phi>
+    </Item>
+    <Item name="jet_14">
+       <title>PF jet</title>
+       <pt>5.80948</pt>
+       <eta>3.64892</eta>
+       <theta>0.0520266</theta>
+       <phi>-2.23488</phi>
+    </Item>
+    <Item name="jet_15">
+       <title>PF jet</title>
+       <pt>5.27537</pt>
+       <eta>-3.576</eta>
+       <theta>3.08563</theta>
+       <phi>1.50232</phi>
+    </Item>
+    <Item name="MET">
+       <title>PF MET</title>
+       <phi>16.0486</phi>
+       <pt>39.5128</pt>
+    </Item>
+  </Items>
+</ItemCollection>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="run_146944_event_119146054">
+       <title>CMS Event</title>
+       <run>146944</run>
+       <ev>119146054</ev>
+       <ls>199</ls>
+       <orbit>52157485</orbit>
+       <bx>1353</bx>
+       <time>2010-Sep-3000=>37=>19.723902GMT</time>
+       <localtime>WedSep2919=>37=>192010CDT</localtime>
+    </Item>
+    <Item name="electron_0">
+       <title>Electron</title>
+       <pt>41.6909</pt>
+       <eta>0.0791855</eta>
+       <phi>0.535599</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="jet_0">
+       <title>PF jet</title>
+       <pt>46.3555</pt>
+       <eta>0.0772918</eta>
+       <theta>1.49358</theta>
+       <phi>0.546572</phi>
+    </Item>
+    <Item name="jet_1">
+       <title>PF jet</title>
+       <pt>7.80181</pt>
+       <eta>-3.46228</eta>
+       <theta>3.0789</theta>
+       <phi>-2.66483</phi>
+    </Item>
+    <Item name="jet_2">
+       <title>PF jet</title>
+       <pt>8.04693</pt>
+       <eta>0.140671</eta>
+       <theta>1.43059</theta>
+       <phi>2.46372</phi>
+    </Item>
+    <Item name="jet_3">
+       <title>PF jet</title>
+       <pt>5.91148</pt>
+       <eta>0.949415</eta>
+       <theta>0.738442</theta>
+       <phi>-1.28034</phi>
+    </Item>
+    <Item name="jet_4">
+       <title>PF jet</title>
+       <pt>5.77417</pt>
+       <eta>1.95942</eta>
+       <theta>0.280035</theta>
+       <phi>-1.33659</phi>
+    </Item>
+    <Item name="jet_5">
+       <title>PF jet</title>
+       <pt>5.55804</pt>
+       <eta>2.0321</eta>
+       <theta>0.260634</theta>
+       <phi>2.67664</phi>
+    </Item>
+    <Item name="jet_6">
+       <title>PF jet</title>
+       <pt>5.51631</pt>
+       <eta>0.0547385</eta>
+       <theta>1.51609</theta>
+       <phi>-0.844321</phi>
+    </Item>
+    <Item name="jet_7">
+       <title>PF jet</title>
+       <pt>5.04023</pt>
+       <eta>-0.33295</eta>
+       <theta>1.89776</theta>
+       <phi>1.34033</phi>
+    </Item>
+    <Item name="jet_8">
+       <title>PF jet</title>
+       <pt>5.08056</pt>
+       <eta>-0.989686</eta>
+       <theta>2.42986</theta>
+       <phi>0.0856742</phi>
+    </Item>
+    <Item name="MET">
+       <title>PF MET</title>
+       <phi>-24.557</phi>
+       <pt>43.98</pt>
+    </Item>
+  </Items>
+</ItemCollection>

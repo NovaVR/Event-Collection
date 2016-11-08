@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="run_146944_event_113409193">
+       <title>CMS Event</title>
+       <run>146944</run>
+       <ev>113409193</ev>
+       <ls>196</ls>
+       <orbit>51162295</orbit>
+       <bx>279</bx>
+       <time>2010-Sep-3000=>35=>51.227193GMT</time>
+       <localtime>WedSep2919=>35=>512010CDT</localtime>
+    </Item>
+    <Item name="muon_0">
+       <title>Global muon</title>
+       <pt>3.4237</pt>
+       <eta>1.75211</eta>
+       <phi>1.08139</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="muon_1">
+       <title>Global muon</title>
+       <pt>29.7392</pt>
+       <eta>-0.543305</eta>
+       <phi>1.87265</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="jet_0">
+       <title>PF jet</title>
+       <pt>40.099</pt>
+       <eta>-0.548686</eta>
+       <theta>2.09386</theta>
+       <phi>1.89229</phi>
+    </Item>
+    <Item name="jet_1">
+       <title>PF jet</title>
+       <pt>15.7109</pt>
+       <eta>-1.59588</eta>
+       <theta>2.74155</theta>
+       <phi>2.57842</phi>
+    </Item>
+    <Item name="jet_2">
+       <title>PF jet</title>
+       <pt>12.3333</pt>
+       <eta>-3.2936</eta>
+       <theta>3.06739</theta>
+       <phi>-2.96843</phi>
+    </Item>
+    <Item name="jet_3">
+       <title>PF jet</title>
+       <pt>12.1703</pt>
+       <eta>3.7912</eta>
+       <theta>0.0451295</theta>
+       <phi>-0.360042</phi>
+    </Item>
+    <Item name="jet_4">
+       <title>PF jet</title>
+       <pt>11.3249</pt>
+       <eta>1.78451</eta>
+       <theta>0.332658</theta>
+       <phi>1.07417</phi>
+    </Item>
+    <Item name="jet_5">
+       <title>PF jet</title>
+       <pt>9.85493</pt>
+       <eta>-3.40351</eta>
+       <theta>3.0751</theta>
+       <phi>1.29377</phi>
+    </Item>
+    <Item name="jet_6">
+       <title>PF jet</title>
+       <pt>8.78877</pt>
+       <eta>1.61605</eta>
+       <theta>0.392255</theta>
+       <phi>0.370834</phi>
+    </Item>
+    <Item name="jet_7">
+       <title>PF jet</title>
+       <pt>8.51931</pt>
+       <eta>3.64521</eta>
+       <theta>0.0522198</theta>
+       <phi>0.507654</phi>
+    </Item>
+    <Item name="jet_8">
+       <title>PF jet</title>
+       <pt>7.76612</pt>
+       <eta>-2.05701</eta>
+       <theta>2.8873</theta>
+       <phi>-1.4764</phi>
+    </Item>
+    <Item name="jet_9">
+       <title>PF jet</title>
+       <pt>6.8209</pt>
+       <eta>-0.757358</eta>
+       <theta>2.26467</theta>
+       <phi>2.78176</phi>
+    </Item>
+    <Item name="jet_10">
+       <title>PF jet</title>
+       <pt>6.53394</pt>
+       <eta>-0.920704</eta>
+       <theta>2.38362</theta>
+       <phi>-1.88665</phi>
+    </Item>
+    <Item name="jet_11">
+       <title>PF jet</title>
+       <pt>6.26799</pt>
+       <eta>2.35869</eta>
+       <theta>0.188527</theta>
+       <phi>3.12007</phi>
+    </Item>
+    <Item name="jet_12">
+       <title>PF jet</title>
+       <pt>5.97323</pt>
+       <eta>-3.10463</eta>
+       <theta>3.05197</theta>
+       <phi>-0.937393</phi>
+    </Item>
+    <Item name="jet_13">
+       <title>PF jet</title>
+       <pt>6.18649</pt>
+       <eta>0.799738</eta>
+       <theta>0.844788</theta>
+       <phi>0.456412</phi>
+    </Item>
+    <Item name="jet_14">
+       <title>PF jet</title>
+       <pt>5.72967</pt>
+       <eta>3.08203</eta>
+       <theta>0.0916676</theta>
+       <phi>2.58152</phi>
+    </Item>
+    <Item name="jet_15">
+       <title>PF jet</title>
+       <pt>5.72035</pt>
+       <eta>-4.06003</eta>
+       <theta>3.1071</theta>
+       <phi>-2.81831</phi>
+    </Item>
+    <Item name="jet_16">
+       <title>PF jet</title>
+       <pt>5.25782</pt>
+       <eta>1.8234</eta>
+       <theta>0.320189</theta>
+       <phi>-0.898785</phi>
+    </Item>
+    <Item name="jet_17">
+       <title>PF jet</title>
+       <pt>5.1634</pt>
+       <eta>2.24519</eta>
+       <theta>0.211028</theta>
+       <phi>-2.18801</phi>
+    </Item>
+    <Item name="MET">
+       <title>PF MET</title>
+       <phi>-41.8618</phi>
+       <pt>42.8723</pt>
+    </Item>
+  </Items>
+</ItemCollection>

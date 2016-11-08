@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="run_146944_event_133474136">
+       <title>CMS Event</title>
+       <run>146944</run>
+       <ev>133474136</ev>
+       <ls>209</ls>
+       <orbit>54654243</orbit>
+       <bx>1977</bx>
+       <time>2010-Sep-3000=>41=>01.746699GMT</time>
+       <localtime>WedSep2919=>41=>012010CDT</localtime>
+    </Item>
+    <Item name="electron_0">
+       <title>Electron</title>
+       <pt>27.0947</pt>
+       <eta>1.62918</eta>
+       <phi>-1.95024</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="jet_0">
+       <title>PF jet</title>
+       <pt>31.5343</pt>
+       <eta>1.61162</eta>
+       <theta>0.393951</theta>
+       <phi>-1.93557</phi>
+    </Item>
+    <Item name="jet_1">
+       <title>PF jet</title>
+       <pt>15.164</pt>
+       <eta>0.0518422</eta>
+       <theta>1.51898</theta>
+       <phi>-1.45068</phi>
+    </Item>
+    <Item name="jet_2">
+       <title>PF jet</title>
+       <pt>7.25801</pt>
+       <eta>4.22321</eta>
+       <theta>0.029301</theta>
+       <phi>2.75445</phi>
+    </Item>
+    <Item name="jet_3">
+       <title>PF jet</title>
+       <pt>6.88538</pt>
+       <eta>3.66393</eta>
+       <theta>0.051252</theta>
+       <phi>2.0832</phi>
+    </Item>
+    <Item name="jet_4">
+       <title>PF jet</title>
+       <pt>6.89335</pt>
+       <eta>-1.51047</eta>
+       <theta>2.70695</theta>
+       <phi>2.35155</phi>
+    </Item>
+    <Item name="jet_5">
+       <title>PF jet</title>
+       <pt>5.96471</pt>
+       <eta>-1.03218</eta>
+       <theta>2.45716</theta>
+       <phi>1.39994</phi>
+    </Item>
+    <Item name="jet_6">
+       <title>PF jet</title>
+       <pt>5.45659</pt>
+       <eta>1.36927</eta>
+       <theta>0.498029</theta>
+       <phi>0.0187567</phi>
+    </Item>
+    <Item name="jet_7">
+       <title>PF jet</title>
+       <pt>5.15136</pt>
+       <eta>-1.07543</eta>
+       <theta>2.48406</theta>
+       <phi>0.497067</phi>
+    </Item>
+    <Item name="MET">
+       <title>PF MET</title>
+       <phi>22.3209</phi>
+       <pt>26.6029</pt>
+    </Item>
+  </Items>
+</ItemCollection>

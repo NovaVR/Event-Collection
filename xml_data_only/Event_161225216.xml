@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="run_146944_event_161225216">
+       <title>CMS Event</title>
+       <run>146944</run>
+       <ev>161225216</ev>
+       <ls>228</ls>
+       <orbit>59530879</orbit>
+       <bx>255</bx>
+       <time>2010-Sep-3000=>48=>15.398804GMT</time>
+       <localtime>WedSep2919=>48=>152010CDT</localtime>
+    </Item>
+    <Item name="muon_0">
+       <title>Global muon</title>
+       <pt>37.9134</pt>
+       <eta>-1.89088</eta>
+       <phi>-0.950848</phi>
+       <charge>-1</charge>
+    </Item>
+    <Item name="jet_0">
+       <title>PF jet</title>
+       <pt>38.8155</pt>
+       <eta>-1.89738</eta>
+       <theta>2.84389</theta>
+       <phi>-0.946022</phi>
+    </Item>
+    <Item name="jet_1">
+       <title>PF jet</title>
+       <pt>8.66795</pt>
+       <eta>3.92182</eta>
+       <theta>0.0396049</theta>
+       <phi>1.09738</phi>
+    </Item>
+    <Item name="jet_2">
+       <title>PF jet</title>
+       <pt>7.70342</pt>
+       <eta>1.4882</eta>
+       <theta>0.444112</theta>
+       <phi>-2.31703</phi>
+    </Item>
+    <Item name="jet_3">
+       <title>PF jet</title>
+       <pt>6.42771</pt>
+       <eta>0.195063</eta>
+       <theta>1.37696</theta>
+       <phi>3.04791</phi>
+    </Item>
+    <Item name="MET">
+       <title>PF MET</title>
+       <phi>17.4092</phi>
+       <pt>24.2812</pt>
+    </Item>
+  </Items>
+</ItemCollection>

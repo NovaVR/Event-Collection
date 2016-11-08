@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+    <Item name="run_146944_event_155455631">
+       <title>CMS Event</title>
+       <run>146944</run>
+       <ev>155455631</ev>
+       <ls>224</ls>
+       <orbit>58503367</orbit>
+       <bx>2007</bx>
+       <time>2010-Sep-3000=>46=>44.027879GMT</time>
+       <localtime>WedSep2919=>46=>442010CDT</localtime>
+    </Item>
+    <Item name="electron_0">
+       <title>Electron</title>
+       <pt>38.0694</pt>
+       <eta>-0.558843</eta>
+       <phi>1.52934</phi>
+       <charge>1</charge>
+    </Item>
+    <Item name="jet_0">
+       <title>PF jet</title>
+       <pt>38.4506</pt>
+       <eta>-0.560949</eta>
+       <theta>2.10445</theta>
+       <phi>1.52968</phi>
+    </Item>
+    <Item name="jet_1">
+       <title>PF jet</title>
+       <pt>6.43025</pt>
+       <eta>-0.953575</eta>
+       <theta>2.40595</theta>
+       <phi>-0.751174</phi>
+    </Item>
+    <Item name="MET">
+       <title>PF MET</title>
+       <phi>-29.2452</phi>
+       <pt>29.4741</pt>
+    </Item>
+  </Items>
+</ItemCollection>

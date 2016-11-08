@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Items>
+<Item name = "jet_0">
+<title>PF jet</title>
+<pt>59.0636</pt>
+<eta>-0.380374</eta>
+<phi>2.69631</phi>
+</Item>
+<Item name = "jet_1">
+<title>PF jet</title>
+<pt>46.6645</pt>
+<eta>-0.948541</eta>
+<phi>-0.258235</phi>
+</Item>
+<Item name = "muon_0">
+<title>Global muon</title>
+<pt>81.967</pt>
+<eta>0.452669</eta>
+<phi>0.558661</phi>
+<charge>1</charge>
+</Item>
+<Item name = "MET">
+<title>PF MET</title>
+<pt>50.161</pt>
+<phi>-1.60415</phi>
+</Item>
+  </Items>
+</ItemCollection>
